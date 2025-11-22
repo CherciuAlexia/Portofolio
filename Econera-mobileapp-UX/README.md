@@ -100,8 +100,7 @@ Weekly Team Sync (1 hour): Team alignment meetings where each member presents:
 - Work completed in the previous week
 - Planned work for the upcoming week
 - Pain points and blockers requiring team support
-- 
-Stakeholder Check-ins: 3 formal presentations with Viitor Plus throughout the project timeline to gather feedback and validate design direction
+- Stakeholder Check-ins: 3 formal presentations with Viitor Plus throughout the project timeline to gather feedback and validate design direction
 
 ### Design Process
 
