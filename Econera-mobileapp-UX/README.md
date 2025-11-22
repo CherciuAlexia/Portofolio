@@ -118,76 +118,19 @@ Secondary Research: Academic studies on environmental behavior change and gamifi
 
 ### 2. Define & Synthesize
 
-User Journey Maps: Current state vs. future state environmental engagement journeys
 Problem Statements: Clearly defined pain points and opportunity areas
 Jobs-to-be-Done Framework: Understanding user motivations and desired outcomes
 
 ### 3. Ideation & Conceptualization
 
-- Brainstorming sessions
-- Sketching and wireframing
-- Information architecture
-- User flow diagrams
+- Brainstorming sessions:Collaborative ideation workshops with design team
+- Information Architecture: Sitemap and navigation structure definition
+- User Flow Diagrams: Task flows for core features (onboarding, challenges, ecosystem management)
 
 ### 4. Prototyping
 
 - Low-fidelity wireframes
 - High-fidelity mockups
-- Interactive prototypes
-- Design system creation
 
-### 5. Testing & Validation
-
-- Usability testing
-- A/B testing
-- Heuristic evaluation
-- Accessibility audit
-
-### 6. Iteration & Refinement
-
-- Incorporate feedback
-- Refine designs
-- Update documentation
-- Prepare for handoff
-
-## 📱 Design Process
-
-### User Research
-
-![User Research](./images/user-research.jpg)
-
-Our research phase included:
-
-- 20+ user interviews
-- Survey with 150+ responses
-- Competitive analysis of 5 key competitors
-
-### Wireframes
-
-![Wireframes](./images/wireframes.jpg)
-
-Initial wireframes exploring different layout options and user flows.
-
-### Design System
-
-![Design System](./images/design-system.jpg)
-
-Comprehensive design system including:
-
-- Color palette
-- Typography scale
-- Component library
-- Icon set
-- Spacing system
-
-### High-Fidelity Mockups
-
-![High-Fidelity Designs](./images/high-fidelity.jpg)
-
-Final designs showcasing the complete user interface.
-
-### Prototypes
-
-![Interactive Prototype](./images/prototype.jpg)
-
-Interactive prototype demonstrating key user flows and interactions.
+### Current project status
+Due to the project timeline constraints, the design phase concluded with high-fidelity prototypes for core user flows and key features, while some secondary wireframes remain at mid-fidelity stage pending future development phases.
