@@ -39,70 +39,69 @@ Econera differentiates itself through its interactive digital ecosystem feature,
 
 ### Design Requirements
 
-- **Screen Sizes:** [e.g., Mobile (375x667), Tablet (768x1024), Desktop (1920x1080)]
-- **Design System:** Custom (used UI libraries, Material Design 3, Tailwind
-- **Accessibility Standards:** [WCAG 2.1 AA compliance, etc.]
-- **Brand Guidelines:** [Color palette, typography, logo usage]
+- **Screen Sizes:** Mobile-Iphone 13&14 (390x844)
+- **Design System:** Custom system utilizing Material Design 3 principles and Tailwind CSS utilities
+- **Accessibility Standards:** WCAG 2.1 AA compliance
+- **Brand Guidelines:** Viitor Plus brand identity integration (eco-focused color palette)
 
 ### Key Features
 
-1. Feature One - Description
-2. Feature Two - Description
-3. Feature Three - Description
+1. Account management & authentification system
+- User registration and secure login functionality
+- Profile creation and customization
+- Role-based access control for students and organizations
+2. Challenge & knowledge assessment framework
+- Progressive environmental challenge system
+- Interactive quiz modules for sustainability education
+- Performance tracking and progress analytics
+- Achievement unlock mechanics
+3. Digital ecosystem management (Core Feature)
+- Personal ecosystem visualization interface with dedicated navigation section
+- Dynamic health status system correlated with user activity
+- Ecosystem degradation mechanics during periods of inactivity
+4. Gamification & reward system
+Points-based progression system
+- Milestone recognition and badges
+- Leaderboards and peer comparison features
+- Reward redemption for ecosystem upgrades
 
-## 🛠 Technologies & Tools
+## Technologies & Tools
 
 ### Design Tools
 
 - **Figma** - Primary design and prototyping tool
-- **Adobe XD** - Alternative design software
-- **Adobe Illustrator** - Vector graphics and icon design
-- **Adobe Photoshop** - Image editing and mockups
-
-### Prototyping & Animation
-
-- **Principle** - Interaction design
-- **After Effects** - Motion graphics
-- **ProtoPie** - Advanced prototyping
+- **Procreate** -Icons and vector graphics
 
 ### Collaboration & Handoff
 
-- **Zeplin** - Design handoff to developers
-- **Miro** - Collaborative whiteboarding
-- **Notion** - Documentation and project management
-- **Slack** - Team communication
+- **Figma** - Real-time collaboration and design handoff
+- **Miro** - Collaborative whiteboarding for ideation sessions
+- **Notion** - Documentation 
+- **Slack** - Team communication and project management
 
 ### User Research & Testing
 
-- **Maze** - User testing and analytics
-- **Lookback** - User interview recording
-- **Optimal Workshop** - Information architecture testing
-- **Google Analytics** - Usage analytics
+- **Google documents** - User information sheet and user interviews
+- **Zoom** - User interview recording
 
 ### Version Control
 
-- **Git** - Version control
-- **Abstract** - Design version control (if applicable)
+- **Figma Version History** - Design iteration tracking
 
-## 🔄 Workflow & Methodology
+## Workflow & Methodology
 
 ### Agile Framework
 
-We follow **Agile/Scrum** methodology with 2-week sprints:
+We follow Agile methodology adapted for UX/UI design workflows, with iterative cycles focused on continuous feedback and refinement.
 
-### Sprint Structure
+Meeting Structure
 
-- **Sprint Planning:** Define goals and tasks for the upcoming sprint
-- **Daily Stand-ups:** 15-minute sync meetings to discuss progress and blockers
-- **Sprint Review:** Demo completed work to stakeholders
-- **Sprint Retrospective:** Reflect on process improvements
-
-### Roles
-
-- **Product Owner:** [Name/Role]
-- **Scrum Master:** [Name/Role]
-- **UX/UI Designers:** [Name(s)]
-- **Developers:** [Name(s)]
+Weekly Team Sync (1 hour): Team alignment meetings where each member presents:
+- Work completed in the previous week
+- Planned work for the upcoming week
+- Pain points and blockers requiring team support
+- 
+Stakeholder Check-ins: 3 formal presentations with Viitor Plus throughout the project timeline to gather feedback and validate design direction
 
 ### Design Process
 
@@ -112,18 +111,16 @@ Research → Define → Ideate → Prototype → Test → Iterate
 ```
 
 ### 1. Research & Discovery
-
-- User interviews and surveys
-- Competitive analysis
-- Market research
-- Stakeholder interviews
+Stakeholder Interviews: Understanding Viitor Plus's organizational goals and challenges
+User Interviews: 10+ interviews with former program participants and current students
+Competitive Analysis: Analysis of sustainability apps
+Secondary Research: Academic studies on environmental behavior change and gamification
 
 ### 2. Define & Synthesize
 
-- User personas
-- User journey maps
-- Problem statements
-- Feature prioritization
+User Journey Maps: Current state vs. future state environmental engagement journeys
+Problem Statements: Clearly defined pain points and opportunity areas
+Jobs-to-be-Done Framework: Understanding user motivations and desired outcomes
 
 ### 3. Ideation & Conceptualization
 
