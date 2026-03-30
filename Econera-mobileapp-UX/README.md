@@ -105,7 +105,7 @@ Weekly Team Sync (1 hour): Team alignment meetings where each member presents:
 ### Design Process
 
 ```
-Research → Define → Ideate → Prototype → Test → Iterate
+Discover → Define → Develop → Deliver
 
 ```
 
